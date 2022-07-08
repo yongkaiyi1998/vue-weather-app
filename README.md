@@ -1,4 +1,7 @@
 # vue-weather-app
+https://user-images.githubusercontent.com/61402813/178040269-1b517b58-91fc-4ce1-a921-c40fbaf7b621.mp4
+
+
 
 ## Project setup
 ```
